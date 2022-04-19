@@ -335,13 +335,13 @@ header span{
     object-fit: cover;
 }
 
-.review .slide .user .user-info h3{
+.review .slide .user h3{
     color: black;
     font-size: 2rem;
     padding-bottom: .5rem;
 }
 
-.review .slide .user .user-info i{
+.review .slide .user i{
     font-size: 1.3rem;
     color: gold;
 }
