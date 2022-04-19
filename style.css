@@ -567,10 +567,23 @@ header span{
         width: 5rem;
     } */
 }
-@media(max-width: 322px){
+@media(max-width: 366px){
     .home .content h3{
-        font-size: 1.2rem;
+        font-size: 1rem;
         color: #333;
     }
-
+    .home .content a img{
+        width: 20px;
+    }
+}
+@media(max-width: 344px){
+    .home .content{
+        flex: 1 1 8rem;
+    }
+    
+}
+@media(max-width: 285px){
+    .home .content{
+        flex: 1 1 6rem;
+    }
 }
