@@ -8,7 +8,7 @@ window.onscroll = () =>{
     }
 }
 
- var swiper = new Swiper("swiper", {
+ var swiper = new Swiper(".swiper", {
     spaceBetween: 20,
     centeredSlides: true,
     autoplay: {
