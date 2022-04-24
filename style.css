@@ -74,6 +74,10 @@ nav li:nth-child(5) a{
 nav li:nth-child(6) a{
     background: #ff0000;
 }
+nav li:nth-child(7) a{
+    background: #ffb413;
+}
+
 
 nav li a i{
     position:absolute;
